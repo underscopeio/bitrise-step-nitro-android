@@ -1,6 +1,6 @@
 # Nitro build system for Android
 
-[![Step changelog](https://shields.io/github/v/release/underscopeio/bitrise-step-nitro-android?include_prereleases&label=changelog&color=blueviolet)](https://github.com/underscopeio/bitrise-step-nitro-android/releases)
+[![Step changelog](https://shields.io/github/v/release/nitro-build/bitrise-step-nitro-android?include_prereleases&label=changelog&color=blueviolet)](https://github.com/nitro-build/bitrise-step-nitro-android/releases)
 
 Build React Native projects powered by Nitro
 
@@ -63,7 +63,7 @@ You can also run this step directly with [Bitrise CLI](https://github.com/bitris
 
 ## 🙋 Contributing
 
-We welcome [pull requests](https://github.com/underscopeio/bitrise-step-nitro-android/pulls) and [issues](https://github.com/underscopeio/bitrise-step-nitro-android/issues) against this repository.
+We welcome [pull requests](https://github.com/nitro-build/bitrise-step-nitro-android/pulls) and [issues](https://github.com/nitro-build/bitrise-step-nitro-android/issues) against this repository.
 
 For pull requests, work on your changes in a forked repository and use the Bitrise CLI to [run step tests locally](https://devcenter.bitrise.io/bitrise-cli/run-your-first-build/).
 

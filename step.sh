@@ -158,7 +158,7 @@ BIN_FILE=$([[ "$(uname)" == "Darwin" ]] && echo "${MACOS_BIN_FILE}" || echo "${L
 BIN_FILE_PATH="${SCRIPT_DIR}/nitro"
 
 # Download cli release
-wget -q "https://github.com/underscopeio/bitrise-step-nitro-android/releases/download/${BITRISE_STEP_VERSION}/${BIN_FILE}" -O "${BIN_FILE_PATH}"
+wget -q "https://github.com/nitro-build/bitrise-step-nitro-android/releases/download/${BITRISE_STEP_VERSION}/${BIN_FILE}" -O "${BIN_FILE_PATH}"
 chmod +x "${BIN_FILE_PATH}"
 ${BIN_FILE_PATH} "${args[@]}"
 

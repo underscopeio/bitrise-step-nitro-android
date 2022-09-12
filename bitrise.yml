@@ -5,7 +5,7 @@ project_type: ""
 app:
   envs:
     - BITRISE_STEP_ID: nitro-android
-    - BITRISE_STEP_GIT_CLONE_URL: "https://github.com/underscopeio/bitrise-step-nitro-android.git"
+    - BITRISE_STEP_GIT_CLONE_URL: "https://github.com/nitro-build/bitrise-step-nitro-android.git"
 meta:
   bitrise.io:
     stack: linux-docker-android-20.04
